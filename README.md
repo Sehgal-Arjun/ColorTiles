@@ -19,3 +19,5 @@ TILES:
 ```Purple```: Changes once you step on it.
 
 Uses [StdDraw libraries](https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html#:~:text=The%20StdDraw%20class%20provides%20a,the%20drawings%20to%20a%20file.) from Princeton.
+
+The Runner file is ```ColorTiles.java```, located at ColorTiles/Colors/GameTry/src.
